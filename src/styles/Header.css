@@ -1,0 +1,242 @@
+ @font-face {
+    font-family: 'coolvetica';
+    src: url(../public/RECURSOS/coolveticarg.otf);
+}
+
+@font-face {
+    font-family: 'helveticanow';
+    src: url(../public/RECURSOS/HelveticaNowText-Thin.otf);
+} 
+
+
+
+
+
+.bt {
+    background: transparent;
+    border: none;
+}
+
+
+.MenuBarra {
+    background-color: #0A0A0A;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.iconoredesHeader {
+    width: 61px;
+    height: 25px;
+    cursor: pointer;
+    margin-top: 0.5rem;
+
+}
+a{
+text-decoration: none !important;
+
+}
+.proyectocon{
+    width: 100%;
+}
+.Btmenutext {
+    font-size: 12px;
+    color: white;
+    font-family: 'helveticanow';
+    font-weight: bold;
+    list-style: none;
+    
+
+}
+
+.TextoProyecto{
+    width: 80%;
+}
+
+.LogoMenutext {
+    font-family: 'coolvetica';
+    font-size: 23px;
+    color: #FFCF08;
+}
+
+.SeccionInicio {
+    padding-bottom: 2rem;
+}
+
+.portada1 {
+    width: 600px;
+    height: 340px;
+    
+}
+
+.Titseccion1 {
+    font-family: 'coolvetica';
+    font-size: 45px;
+    color: #0A0A0A;
+}
+
+.Desseccion1 {
+    text-align: justify;
+    font-family: 'helveticanow';
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.card {
+    border-radius: 0%;
+    background-color: #2D2D2D !important;
+}
+
+.card-text {
+
+    color: white;
+    text-align: justify;
+    font-family: 'helveticanow';
+
+    font-size: 11px;
+}
+
+
+
+.cardvalores{
+    justify-content: center;
+}
+
+.iconocard {
+    width: 5rem !important;
+    height: 4.8rem;
+
+
+}
+
+.Seccionvalorescontendor {
+    display: flex;
+    background-color: #0A0A0A;
+
+}
+
+.iconocardo {
+    width: 7rem !important;
+    height: 73px;
+
+}
+
+.conteicon {
+display: flex;
+    justify-content: center;
+}
+
+.textocard {
+    text-align: justify;
+    font-family: 'helveticanow';
+    font-weight: bold
+}
+
+.titulocard {
+    font-family: 'coolvetica';
+    color: white;
+    font-size: 20px;
+}
+
+
+
+.ContenedorValores {
+    gap: 1rem;
+}
+
+.titulocardpro {
+    font-family: 'coolvetica';
+    color: black;
+    font-size: 20px;
+}
+
+.card-textpro {
+    text-align: justify;
+    color: black;
+    font-family: 'helveticanow';
+    font-weight: bold;
+    font-size: 12px;
+    text-align: justify;
+}
+
+.caja-card{
+    justify-content: center;
+}
+
+.Seccionvalorescontendor{
+    justify-content: center;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+.ContenedorProyecto {
+    
+    display: flex !important;
+   justify-content: center;
+}
+
+.lineador {
+    width: 6px;
+    height: 20rem;
+    background: #FFCF08;
+    list-style: none;
+    
+}
+
+.SeccionJuego {
+
+    background-color: #0A0A0A;
+}
+
+.portada2 {
+
+    justify-content: center;
+}
+
+.bt-conte {
+    justify-content: center;
+    align-content: center;
+}
+
+.botonjugar {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'coolvetica';
+    font-size: 2rem;
+    align-content: center;
+    border-radius: 100px;
+    height: 3rem;
+    width: 9rem;
+    background-color: #FFCF08;
+    border: solid #ffce0800 5px;
+}
+
+.SeccionFooter {
+    background-color: #201f1f;
+}
+
+.foo {
+    justify-content: center;
+    cursor: pointer;
+}
+.utofoo{
+    color: rgba(255, 255, 255, 0.397);
+}
+
+.contefoo{
+    display: flex;
+    justify-content: center;
+}
+
+.proyecto{
+    align-items: center;
+}
+
+.contelineador{
+    display: flex;
+    justify-content: center;
+}
+
+.row{
+    justify-content: center;
+}
